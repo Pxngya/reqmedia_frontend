@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import Login from './Login';
-import Dashboard from './dashboard';
+import Dashboard from './Dashboard';
 import { LogOut, User as UserIcon } from 'lucide-react'; // เพิ่มไอคอนเพื่อความสวยงาม
 
 function App() {

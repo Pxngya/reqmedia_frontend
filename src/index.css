@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #fdf2f0; /* สีพื้นหลังอ่อนๆ ตามรูป */
+}
